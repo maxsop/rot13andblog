@@ -1,0 +1,4 @@
+These are two separate apps. The main page, which is on http://rot13andblog.appspot.com/, lands on the first app, a ROT13. Type in the text area any string and it will output its ROT13 value.
+You have to manually navigate through http://rot13andblog.appspot.com/unit2/signup, http://rot13andblog.appspot.com/signup, http://rot13andblog.appspot.com/login, http://rot13andblog.appspot.com/logout to see the blog infrastructures.
+
+CAUTION: This is a work in progress. So if something is broken, wait a couple of days and check back in.
