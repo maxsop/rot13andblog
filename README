@@ -1,9 +1,9 @@
 This is version2. Will be happy to share the link of version1.
 
-These are basically two separate apps. The main page, is on http:/rot13andblog.appspot.com/,--Your the best ever!. 
-The first app is a ROT13 app, its url is at '/unit2/rot13'.Type in the text area any string and it will output its ROT13 value. The second app is at 
+These are basically two separate apps. The main page, is on http://rot13andblog.appspot.com/,--Your the best ever!. 
+The first app is a ROT13 app, its url is at 'http://rot13andblog.appspot.com/unit2/rot13'.Type in the text area any string and it will output its ROT13 value. The second app is at 
 
-You have to manually navigate through http:/rot13andblog.appspot.com/unit2/signup, http:/rot13andblog.appspot.com/unit2/welcome, http:/rot13andblog.appspot.com/blog, http:/rot13andblog.appspot.com/blog.json, http:/rot13andblog.appspot.comblogg/newpost, http:/rot13andblog.appspot.com/signup, http:/rot13andblog.appspot.com/login, http:/rot13andblog.appspot.com/logout and so on to see the basic infrastructure of the second app.
+You have to manually navigate through http://rot13andblog.appspot.com/unit2/signup, http://rot13andblog.appspot.com/unit2/welcome, http://rot13andblog.appspot.com/blog, http://rot13andblog.appspot.com/login.json, http://rot13andblog.appspot.comblogg/newpost, http://rot13andblog.appspot.com/signup, http://rot13andblog.appspot.com/login, http://rot13andblog.appspot.com/logout and so on to see the basic infrastructure of the second app.
 
 
 CAUTION: This is a work in progress. So if something is broken, wait a couple of days and check back in.
